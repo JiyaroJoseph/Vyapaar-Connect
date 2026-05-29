@@ -4,9 +4,9 @@ Vyapaar Connect QR-based loyalty management prototype for small vendors **TechSp
 Vyapaar Connect is a mobile-first prototype designed to help small vendors digitize customer engagement and loyalty tracking through a simple and structured workflow. 
 
 ## 🎥 Video Demo  
+https://github.com/user-attachments/assets/1f0f1979-5438-484e-99b0-e8648297f09b
 
 
-[Watch Demo Video](https://drive.google.com/file/d/1mdW2NVYMXI9eBrCYnQvpSTsIAglAZdWx/view)
 
 ## Core Features 
 - Vendors can either manually enter menu items or capture a photo of their menu using a Flutter-based mobile application.
